@@ -1,7 +1,8 @@
 +++
-date = "2017-01-11T09:58:42-06:00"
-draft = true
-title = "good to great"
-
+date = "2017-01-11T11:07:22-06:00"
+draft = false
+title = "Inicio en Making Devs"
+image = "profile.jpg"
 +++
 
+hola

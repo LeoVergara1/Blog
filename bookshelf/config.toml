@@ -1,3 +1,7 @@
-baseurl = "http://replace-this-with-your-hugo-site.com/"
+baseurl = "http://leovergara.org/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "My New Blog in Hugo"
+[Params]
+	Author = "Leo Vergara"
+	disqusShortname = "your disqus shortname"
+

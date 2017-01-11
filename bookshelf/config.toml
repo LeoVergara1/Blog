@@ -1,4 +1,4 @@
-baseurl = "http://leovergara.org/"
+baseurl = "https://LeoVergara1.github.io/bookshelf/"
 languageCode = "en-us"
 title = "My New Blog in Hugo"
 [Params]
